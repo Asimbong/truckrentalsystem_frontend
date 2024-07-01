@@ -1,1 +1,0 @@
-# truckrentalsystem_frontend
